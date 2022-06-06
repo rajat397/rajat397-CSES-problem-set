@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "IIT2021109.C": "cpp",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "valarray": "c"
+    }
+}

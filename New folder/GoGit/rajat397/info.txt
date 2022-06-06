@@ -1,0 +1,3 @@
+stash and deleting/reverting commits
+
+git and github is a open source VCS

@@ -1,0 +1,50 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\codeplus"
+		},
+		{
+			"path": "..\\..\\WebD"
+		},
+		{
+			"path": "..\\..\\spoj"
+		},
+		{
+			"path": "..\\..\\codechef"
+		},
+		{
+			"path": "D:\\codeforces"
+		},
+		{
+			"path": "..\\..\\assignments"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "c",
+			"forward_list": "c",
+			"list": "c",
+			"unordered_map": "c",
+			"unordered_set": "c",
+			"assignment2a(1)": "c",
+			"iostream": "cpp",
+			"valarray": "cpp",
+			"ratio": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"random": "cpp",
+			"charconv": "c",
+			"array": "c",
+			"ostream": "cpp",
+			"cmath": "cpp",
+			"stdio.h": "c",
+			"sstream": "c",
+			"regex": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "WebD"
+	}
+}
