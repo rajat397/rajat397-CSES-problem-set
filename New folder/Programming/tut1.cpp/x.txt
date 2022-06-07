@@ -1,5 +1,0 @@
-<iframe src="https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html"
-        width="800"
-        height="600"
-        allowfullscreen>
-</iframe>
